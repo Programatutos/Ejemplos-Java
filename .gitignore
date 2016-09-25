@@ -61,3 +61,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/CalculadoraBasica/nbproject/private/
+/CalculadoraBasica/build/
